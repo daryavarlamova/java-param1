@@ -17,4 +17,5 @@ class SQRServiceTest {
         // производим проверку (сравниваем ожидаемый и фактический):
         assertEquals(expected, count);
     }
+
 }
